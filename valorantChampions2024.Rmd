@@ -1,0 +1,210 @@
+---
+title: 'Case Study: Valorant Champions 2024'
+author: "João Kishi"
+date: "2025-02-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+```
+# Introduction 
+<h5 style="text-indent: 2em;">The ESports gaming scene is growing exponentially over the years, and data comes in all shapes and forms when dealing with games. In this case study, we will be reviewing and analyzing data from the Valorant Champions 2024, by using tools like R and Excel, we'll discover interesting stuff about players statistics as well as patterns and trends over the data.</h5>
+<h5>The Valorant Champions 2024 was conquered by Edward Gaming (EDG) and the MVP was ZmjjKK</h5>
+<h5 style="text-indent: 2em;">All data used was taken from Kaggle, from the [Valorant Champion Tour 2021-2024 Data](https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data) dataset by Ryan Luong. The data has 10.0 usability and is licensed by MIT, all data was scraped from [vlr.gg](vlr.gg).</h5>
+  
+# Loading libraries
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(readr)
+```
+
+<h5>The libraries are used to process, analyze, and visualize data.</h5>
+
+# Loading data
+```{r}
+## Load players_stats
+players_stats <- read_csv("players_stats_filtered.csv")
+## Load kills_stats 
+kills_stats <- read_csv("kills_stats_filtered.csv")
+```
+
+<h5>The data is loaded from two CSV files. Both datasets were cleaned in Excel, documentation [here]()</h5>
+
+# Processing data
+```{r}
+
+## Clean columns names
+colnames(kills_stats) <- gsub(" ", "_", colnames(kills_stats))
+colnames(players_stats) <- gsub(" ", "_", colnames(players_stats))
+
+## Define team abbreviations mapping
+team_abbreviations <- c("Gen.G" = "GEN", "Sentinels" = "SEN", "FunPlus Phoenix" = "FPX", 
+                        "Team Heretics" = "TH", "DRX" = "DRX", "KRÜ Esports" = "KRÜ", 
+                        "FNATIC" = "FNC", "Bilibili Gaming" = "BLG", "LEVIATÁN" = "LEV", 
+                        "Talon Esports" = "TLN", "Team Vitality" = "VIT", "Trace Esports" = "TE", 
+                        "G2 Esports" = "G2", "Paper Rex" = "PRX", "EDward Gaming" = "EDG", 
+                        "FUT Esports" = "FUT")
+kills_stats <- kills_stats %>%
+  mutate(Team_Abbreviations = team_abbreviations[Team])
+players_stats <- players_stats %>% 
+  mutate(Team_Abbreviations = team_abbreviations[Teams])
+
+
+# Creating variables for grand finals data
+grand_final_data <- kills_stats[kills_stats$`Match_Type` == "Grand Final", ]
+grand_final_player_data <- left_join(grand_final_data, players_stats, by = "Player")
+
+## Adding rounds played per player to kills stats dataset
+rounds_played_per_player <- players_stats %>% 
+  select(Player, Rounds_Played)
+kills_stats <- left_join(kills_stats, rounds_played_per_player, by = "Player")
+
+## Verifying data integrity
+### Kills stats columns names.
+colnames(kills_stats)
+### Players stats columns names.
+colnames(players_stats)
+### Verifying if all teams have 5 players.
+print(table(players_stats$Teams))
+### Verifying if all players on each team have the same matches.
+print(table(players_stats$`Rounds_Played`))
+
+```
+
+<h5>Both datasets columns were cleaned to be snake cased.</h5>
+<h5>The "Kills Stats" dataset didn't have an abbreviation column, so it was made one, to be easier when analyzing and visualizing.</h5>
+
+# Analyzing the data
+
+## Top 10 player by Rating
+```{r}
+top_10_rating <- players_stats %>%
+  arrange(desc(Rating)) %>% 
+  head(10)
+```
+
+```{r}
+ggplot(top_10_rating, aes(x = reorder(Player, Rating), y = Rating, fill = Player)) +
+  geom_col() +
+  coord_flip() +
+  geom_text(aes(label = Team_Abbreviations), hjust = 1.3, color = "black", size = 3) +
+  geom_text(aes(label = Rating), hjust = 3, color = "black", size = 3) +
+  labs(title = "Top 10 Players by Rating",
+       x = NULL,
+       y = "Rating") +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+<h5>Here we can see the Top 10 players by Rating.</h5>
+
+## Creating max multikills list with players names and teams
+```{r}
+max_kills_list <- lapply(c("5k", "4k", "3k", "2k"), function(kill_type) {
+  max_rows <- kills_stats[kills_stats[[kill_type]] == max(kills_stats[[kill_type]], na.rm = TRUE), ]
+  data.frame(
+    Kill_Type = kill_type,
+    Player = max_rows$Player,
+    Team_Abbreviations = max_rows$Team_Abbreviations,
+    Max_Kills = max_rows[[kill_type]],
+    Rounds_Played = max_rows$Rounds_Played,
+    stringsAsFactors = FALSE
+  )
+})
+max_kills <- do.call(rbind, max_kills_list)
+```
+```{r, echo=FALSE}
+print(max_kills)
+```
+<h5>This table contains all types of multikills (2k, 3k, 4k and 5k), the max count for each multikill each player did, their rounds played as well as their team.</h5>
+```{r, fig.width=10, fig.height=7.5, echo=FALSE}
+  ggplot(max_kills, aes(x = Kill_Type, y = Max_Kills, fill = Team_Abbreviations)) +
+    geom_bar(stat = "identity", position = "dodge") +
+    geom_text(aes(label = Max_Kills), position = position_dodge(width = 0.9), vjust = 1.3, size = 4, color = "black") +
+    geom_text(aes(label = Rounds_Played), position = position_dodge(width = 0.9), vjust = 2.5, size = 4, color = "black") +
+    geom_text(aes(label = Player), position = position_dodge(width = 0.9), vjust = -0.5, size = 4, color = "black") +
+    labs(title = "Max Multikills by Player",
+         x = "Multikill Type",
+         y = "Max Multikills",) +
+    theme_minimal()
+```
+<h5>As we can see, ZmjjKK was the only player with 2 "aces" (5k), it is noticeable that he appears on the 4k list as well as the 2k list, making his performance throughout the championship remarkable.</h5>
+<h5>We have players like GEN Meteor and G2 icy that have low rounds played but high multikills count.</h5>
+
+## Creating max multikills list with players names and teams for grand final
+```{r}
+# kills stats for only grand finals maps
+max_kills_list_grand_final <- lapply(c("5k", "4k", "3k", "2k"), function(kill_type) {
+  max_rows <- grand_final_data[grand_final_data [[kill_type]] == max(grand_final_data[[kill_type]], na.rm = TRUE), ]
+  data.frame(
+    Kill_Type = kill_type,
+    Player = max_rows$Player,
+    Team_Abbreviations = max_rows$Team_Abbreviations,
+    Max_Kills = max_rows[[kill_type]],
+    Rounds_Played = max_rows$Rounds_Played.x,
+    stringsAsFactors = FALSE
+  )
+})
+max_kills_grand_final <- do.call(rbind, max_kills_list_grand_final)
+print(max_kills)
+```
+```{r, echo=FALSE}
+print(max_kills_grand_final)
+```
+
+```{r, fig.width=10, fig.height=7.5, echo=FALSE}
+  ggplot(max_kills_grand_final, aes(x = Kill_Type, y = Max_Kills, fill = Team_Abbreviations)) +
+    geom_bar(stat = "identity", position = "dodge") +
+    geom_text(aes(label = Max_Kills), position = position_dodge(width = 0.9), vjust = 1.3, size = 4, color = "black") +
+    geom_text(aes(label = Rounds_Played), position = position_dodge(width = 0.9), vjust = 2.5, size = 4, color = "black") +
+    geom_text(aes(label = Player), position = position_dodge(width = 0.9), vjust = -0.5, size = 4, color = "black") +
+    labs(title = "Max Multikills by Player",
+         x = "Multikill Type",
+         y = "Max Multikills",) +
+    theme_minimal()
+```
+<h5>We can see the performance from EDG on the Grand Finals match, with the MVP ZmjjKK being the dominant name appearing on the most multikills in the match.</h5>
+
+## Creating max clutches for grand finals match
+```{r}
+clutches_grand_final_list <- lapply(c("1v1", "1v2", "1v3", "1v4", "1v5"), function(clutches) {
+  valid_rows <- grand_final_data[grand_final_data[[clutches]] > 0, ]
+  if(nrow(valid_rows) > 0) {
+    max_rows <- valid_rows[valid_rows[[clutches]] == max(valid_rows[[clutches]], na.rm = TRUE), ]
+    return(data.frame(
+      Clutches = clutches,
+      Player = max_rows$Player,
+      Team_Abbreviations = max_rows$Team_Abbreviations,
+      Max_Clutches = max_rows[[clutches]],
+      Rounds_Played = max_rows$Rounds_Played.x,
+      stringsAsFactors = FALSE
+    ))
+  }
+})
+clutches_grand_final <- do.call(rbind, clutches_grand_final_list)
+```
+```{r, echo=FALSE}
+print(clutches_grand_final)
+```
+
+```{r, fig.width=10, fig.height=7.5, echo=FALSE}
+ggplot(clutches_grand_final, aes(x = Player, y = Max_Clutches, fill = Team_Abbreviations)) +
+  geom_bar(stat = "identity", position = "dodge", show.legend = TRUE) +
+  geom_text(aes(label = Max_Clutches), 
+            position = position_dodge(width = 0.8), 
+            vjust = -0.5, size = 5, color = "black") +
+  labs(title = "Max Clutches in Grand Final",
+       x = "Player",
+       y = "Max Clutches",
+       fill = "Team") +
+  theme_minimal() +
+  facet_wrap(~ Clutches, scales = "free_x")
+```
+
+<h5>We can see that Team Heretics had more 1v3 clutches, but EDG had more clutches overall, and we don't see the MVP on this table.</h5>
