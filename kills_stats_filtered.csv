@@ -1,0 +1,341 @@
+Tournament,Stage,Match Type,Match Name,Map,Team,Player,Agents,2k,3k,4k,5k,1v1,1v2,1v3,1v4,1v5,Econ,Spike Plants,Spike Defuses
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Gen.G,Lakia,"skye, sova",6,0,0,0,0,0,0,0,0,40,6,0
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Gen.G,Munchkin,"kayo, viper",3,3,0,0,0,0,0,0,0,49,6,0
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Gen.G,t3xture,jett,9,1,1,0,0,1,0,0,0,73,0,3
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Gen.G,Meteor,killjoy,6,3,1,0,1,0,1,0,0,68,1,1
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Gen.G,Karon,omen,3,2,2,0,1,0,0,0,0,54,6,0
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Sentinels,TenZ,omen,6,1,0,0,0,0,0,0,0,47,1,0
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Sentinels,Sacy,sova,8,1,0,0,0,0,0,0,0,72,3,3
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Sentinels,Zellsis,"breach, cypher",2,2,0,0,0,0,0,0,0,36,7,1
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Sentinels,johnqt,"cypher, deadlock",4,1,0,0,0,0,0,0,0,34,0,0
+Valorant Champions 2024,Group Stage,Opening (B),Gen.G vs Sentinels,All Maps,Sentinels,zekken,jett,2,1,0,0,0,0,0,0,0,38,1,1
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,FunPlus Phoenix,Autumn,"chamber, viper",13,2,0,0,2,1,0,0,0,52,3,3
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,FunPlus Phoenix,Life,"raze, yoru",4,4,0,0,1,0,0,0,0,45,6,1
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,FunPlus Phoenix,BerLIN,"astra, omen",8,2,0,0,0,1,0,0,0,42,6,1
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,FunPlus Phoenix,AAAAY,"fade, gekko",8,5,1,1,1,0,0,0,0,52,7,3
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,FunPlus Phoenix,Lysoar,"cypher, omen, viper",10,1,1,0,1,0,0,0,0,53,7,0
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,Team Heretics,Boo,"astra, brimstone, fade",6,2,0,0,0,0,0,0,0,42,4,1
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,Team Heretics,RieNs,"gekko, sova, viper",17,3,2,0,1,1,0,0,0,68,13,1
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,Team Heretics,MiniBoo,"jett, raze",10,1,0,0,0,0,0,0,0,35,0,1
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,Team Heretics,Wo0t,"fade, gekko, omen",8,3,0,0,0,0,1,0,0,42,11,4
+Valorant Champions 2024,Group Stage,Opening (B),FunPlus Phoenix vs Team Heretics,All Maps,Team Heretics,benjyfishy,"cypher, killjoy, viper",8,5,0,0,0,1,0,0,0,52,0,3
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,DRX,BuZz,"jett, raze",6,4,0,0,0,0,0,0,0,57,1,0
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,DRX,MaKo,"brimstone, omen",7,0,0,0,0,0,0,0,0,47,7,1
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,DRX,BeYN,"fade, sova",5,2,1,0,2,1,0,0,0,46,1,3
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,DRX,Foxy9,"breach, gekko, kayo",5,3,0,0,0,0,0,0,0,51,7,0
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,DRX,Flashback,"cypher, viper",9,2,1,0,2,0,0,0,0,63,0,2
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,KRÜ Esports,Melser,"brimstone, harbor, omen",6,2,1,0,1,1,0,0,0,69,0,2
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,KRÜ Esports,keznit,"neon, omen, raze",9,3,2,0,0,0,0,0,0,59,3,2
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,KRÜ Esports,heat,"breach, fade, sova",9,0,0,0,0,0,0,0,0,48,1,1
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,KRÜ Esports,Shyy,"cypher, viper",6,3,0,0,2,1,1,0,0,47,2,0
+Valorant Champions 2024,Group Stage,Opening (A),DRX vs KRÜ Esports,All Maps,KRÜ Esports,mta,"gekko, kayo, sova",7,2,0,0,0,0,0,0,0,48,8,0
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,FNATIC,Boaster,"astra, omen",4,1,0,0,0,1,0,0,0,51,1,0
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,FNATIC,Chronicle,viper,10,2,0,0,1,0,0,0,0,72,0,2
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,FNATIC,Derke,raze,6,3,0,0,0,0,0,0,0,60,2,3
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,FNATIC,Alfajer,"gekko, killjoy",4,1,0,0,0,0,0,0,0,50,6,1
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,FNATIC,hiro,fade,7,3,0,0,0,1,1,0,0,64,2,2
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,Bilibili Gaming,Flex1n,"brimstone, omen",4,0,0,0,0,0,0,0,0,38,3,0
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,Bilibili Gaming,Knight,"breach, cypher",6,1,0,0,0,0,0,0,0,44,3,0
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,Bilibili Gaming,whzy,"neon, raze",5,2,1,1,0,0,0,0,0,54,0,1
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,Bilibili Gaming,Yosemite,"cypher, viper",4,0,0,0,0,0,0,0,0,35,1,1
+Valorant Champions 2024,Group Stage,Opening (A),FNATIC vs Bilibili Gaming,All Maps,Bilibili Gaming,nephh,"fade, skye",4,1,0,0,0,0,0,0,0,51,8,0
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,LEVIATÁN,C0M,"sova, viper",5,2,0,0,1,0,0,0,0,70,1,2
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,LEVIATÁN,tex,"cypher, gekko",3,2,0,0,1,0,0,0,0,43,10,0
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,LEVIATÁN,Mazino,"deadlock, skye",5,0,0,0,0,0,0,0,0,42,0,2
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,LEVIATÁN,aspas,"jett, raze",8,0,1,0,0,0,0,0,0,63,0,1
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,LEVIATÁN,kiNgg,"brimstone, omen",5,4,0,1,1,1,0,0,0,63,3,2
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,Talon Esports,Crws,"kayo, omen",4,1,0,0,0,0,0,0,0,37,6,0
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,Talon Esports,Governor,"neon, sova",6,2,0,0,0,0,0,0,0,47,0,0
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,Talon Esports,ban,"phoenix, skye",6,0,0,0,0,0,0,0,0,40,3,2
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,Talon Esports,JitBoyS,"clove, viper",8,0,0,0,0,0,0,0,0,51,3,2
+Valorant Champions 2024,Group Stage,Opening (C),LEVIATÁN vs Talon Esports,All Maps,Talon Esports,primmie,"sage, yoru",9,3,0,0,0,0,0,0,0,56,2,1
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Team Vitality,Sayf,"jett, neon, raze",10,2,0,0,0,1,0,0,0,50,2,1
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Team Vitality,trexx,"fade, sova",10,5,2,0,1,1,0,0,0,80,4,2
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Team Vitality,ceNder,omen,5,4,0,0,0,0,0,0,0,38,6,0
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Team Vitality,Kicks,"gekko, kayo",2,0,0,0,0,0,0,0,0,39,8,1
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Team Vitality,runneR,"cypher, killjoy, viper",9,2,0,0,0,0,0,0,0,48,3,1
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Trace Esports,Biank,"skye, sova",6,1,1,0,0,0,1,0,0,42,7,2
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Trace Esports,LuoK1ng,"brimstone, omen",12,7,0,0,0,0,0,0,0,65,6,1
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Trace Esports,heybay,"breach, deadlock, kayo",6,0,1,0,0,0,0,0,0,47,7,0
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Trace Esports,FengF,"killjoy, raze",9,2,0,0,1,1,0,0,0,46,1,2
+Valorant Champions 2024,Group Stage,Opening (C),Team Vitality vs Trace Esports,All Maps,Trace Esports,Kai,"cypher, jett",13,2,0,0,0,0,0,0,0,52,3,0
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,G2 Esports,valyn,"harbor, omen",7,1,0,0,1,0,0,0,0,55,4,1
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,G2 Esports,JonahP,viper,7,2,1,0,0,0,0,0,0,57,0,2
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,G2 Esports,leaf,killjoy,6,2,1,0,1,0,0,0,0,67,2,4
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,G2 Esports,icy,"gekko, raze",4,4,0,0,0,0,0,0,0,48,7,1
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,G2 Esports,trent,"fade, sova",6,3,0,0,1,0,0,0,0,57,4,2
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,Paper Rex,Jinggg,"neon, sage",6,1,0,0,1,0,0,0,0,47,7,0
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,Paper Rex,mindfreak,"omen, viper",5,4,0,0,0,0,1,0,0,54,2,1
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,Paper Rex,f0rsakeN,"kayo, sova",6,3,0,0,0,0,0,0,0,50,5,3
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,Paper Rex,d4v41,"fade, killjoy",5,0,0,0,0,0,0,0,0,43,2,0
+Valorant Champions 2024,Group Stage,Opening (D),G2 Esports vs Paper Rex,All Maps,Paper Rex,something,jett,6,2,0,0,1,0,0,0,0,53,0,1
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,EDward Gaming,nobody,"fade, gekko",5,1,0,0,0,1,0,0,0,39,2,2
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,EDward Gaming,ZmjjKK,"neon, raze",8,2,0,0,0,1,0,0,0,46,4,0
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,EDward Gaming,Smoggy,"brimstone, clove",11,3,1,0,1,2,0,0,0,79,2,3
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,EDward Gaming,S1Mon,"breach, fade",2,0,0,0,0,0,0,0,0,33,8,1
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,EDward Gaming,CHICHOO,"omen, viper",4,2,1,0,0,1,0,0,0,68,2,1
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,FUT Esports,cNed,"jett, raze",5,2,0,0,0,0,0,0,0,53,0,0
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,FUT Esports,qRaxs,"breach, fade",5,1,0,0,1,0,1,0,0,52,4,1
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,FUT Esports,AtaKaptan,"brimstone, viper",4,2,0,0,0,0,0,0,0,39,5,0
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,FUT Esports,MrFaliN,"gekko, omen",5,1,0,0,0,0,0,0,0,44,8,1
+Valorant Champions 2024,Group Stage,Opening (D),EDward Gaming vs FUT Esports,All Maps,FUT Esports,yetujey,"cypher, viper",6,4,0,0,0,0,0,0,0,54,1,1
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Gen.G,Lakia,"fade, skye, sova",7,1,0,0,1,1,0,0,0,29,13,1
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Gen.G,Munchkin,viper,6,0,0,0,1,0,0,0,0,46,3,0
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Gen.G,t3xture,"jett, raze",9,2,2,0,0,0,0,0,0,58,2,1
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Gen.G,Meteor,"cypher, killjoy, yoru",14,4,4,0,1,0,0,0,0,74,5,1
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Gen.G,Karon,"astra, brimstone, omen",8,2,2,0,2,0,0,0,0,49,5,1
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Team Heretics,Boo,"astra, fade",14,0,1,0,1,1,0,0,0,57,4,0
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Team Heretics,RieNs,"gekko, sova, viper",8,3,1,0,1,1,0,0,0,54,10,1
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Team Heretics,MiniBoo,"jett, raze, yoru",9,2,0,0,0,0,0,0,0,44,1,0
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Team Heretics,Wo0t,"gekko, omen, skye",8,4,0,0,1,2,0,0,0,52,11,4
+Valorant Champions 2024,Group Stage,Winner's (B),Gen.G vs Team Heretics,All Maps,Team Heretics,benjyfishy,"cypher, killjoy, viper",8,4,1,0,2,0,0,0,0,52,2,1
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,FNATIC,Boaster,"astra, omen",5,0,0,0,1,0,0,0,0,35,1,0
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,FNATIC,Chronicle,"sova, viper",4,1,0,0,0,0,0,0,0,42,0,1
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,FNATIC,Derke,"raze, yoru",8,1,0,0,0,0,0,0,0,49,5,0
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,FNATIC,Alfajer,killjoy,8,4,1,0,2,2,0,0,0,77,3,5
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,FNATIC,hiro,"fade, viper",3,0,1,0,0,0,0,0,0,41,0,1
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,DRX,BuZz,"jett, raze",5,4,1,1,0,0,0,0,0,74,1,1
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,DRX,MaKo,omen,8,1,0,0,1,0,0,0,0,63,5,1
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,DRX,BeYN,"fade, sova",4,2,0,0,1,1,0,0,0,44,7,0
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,DRX,Foxy9,"chamber, kayo",4,0,0,0,0,0,0,0,0,38,6,0
+Valorant Champions 2024,Group Stage,Winner's (A),FNATIC vs DRX,All Maps,DRX,Flashback,"cypher, viper",6,0,0,0,1,0,1,0,0,37,1,1
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,LEVIATÁN,C0M,"sova, viper",8,2,1,0,1,0,0,0,0,52,4,0
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,LEVIATÁN,tex,"cypher, gekko",11,3,1,0,1,1,0,0,0,51,4,1
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,LEVIATÁN,Mazino,"breach, deadlock, skye",9,0,0,0,0,0,0,0,0,37,12,2
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,LEVIATÁN,aspas,"jett, neon, raze",5,8,0,0,0,0,0,0,0,64,1,0
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,LEVIATÁN,kiNgg,"brimstone, omen",7,2,1,0,1,2,0,0,0,53,2,3
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,Trace Esports,Biank,"skye, sova",4,4,1,0,4,0,0,0,0,44,12,3
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,Trace Esports,LuoK1ng,"brimstone, omen",8,1,1,0,0,0,0,0,0,45,1,2
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,Trace Esports,heybay,"breach, deadlock, kayo",5,3,0,0,1,1,0,0,0,48,6,1
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,Trace Esports,FengF,"killjoy, raze",12,1,1,0,1,0,0,0,0,58,1,2
+Valorant Champions 2024,Group Stage,Winner's (C),LEVIATÁN vs Trace Esports,All Maps,Trace Esports,Kai,"cypher, jett",12,6,0,0,1,0,0,0,0,75,1,2
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,EDward Gaming,nobody,"gekko, sova",4,0,0,0,0,0,0,0,0,40,10,0
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,EDward Gaming,ZmjjKK,"jett, neon, raze",6,6,1,0,0,0,0,0,0,50,0,0
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,EDward Gaming,Smoggy,"brimstone, omen, viper",6,3,1,0,0,2,0,0,0,52,5,0
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,EDward Gaming,S1Mon,"breach, fade, kayo",12,4,2,0,0,1,0,0,0,57,14,1
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,EDward Gaming,CHICHOO,"cypher, killjoy, viper",9,3,0,0,0,1,0,0,0,51,1,1
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,G2 Esports,valyn,"brimstone, harbor, omen",8,5,1,0,0,1,0,0,0,59,4,0
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,G2 Esports,JonahP,"skye, viper",2,3,1,0,1,1,0,0,0,45,1,2
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,G2 Esports,leaf,"killjoy, viper",5,4,0,0,0,0,0,0,0,47,0,1
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,G2 Esports,icy,"gekko, raze, yoru",4,2,4,0,0,1,0,0,0,56,7,3
+Valorant Champions 2024,Group Stage,Winner's (D),EDward Gaming vs G2 Esports,All Maps,G2 Esports,trent,"gekko, sova",6,4,1,0,0,1,0,0,0,48,9,2
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,Sentinels,TenZ,"gekko, omen",8,2,0,0,0,0,0,0,0,70,6,0
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,Sentinels,Sacy,fade,2,3,0,0,1,0,0,0,0,60,4,0
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,Sentinels,Zellsis,"brimstone, killjoy",6,2,0,0,0,0,0,0,0,48,1,1
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,Sentinels,johnqt,viper,3,2,1,0,0,2,0,0,0,64,1,5
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,Sentinels,zekken,raze,7,4,0,0,0,1,0,0,0,77,1,2
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,FunPlus Phoenix,Autumn,chamber,4,2,1,0,0,0,0,0,0,49,2,2
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,FunPlus Phoenix,Life,"viper, yoru",6,1,0,0,0,0,0,0,0,40,1,0
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,FunPlus Phoenix,BerLIN,"breach, omen",6,0,1,0,0,0,0,0,0,51,1,1
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,FunPlus Phoenix,AAAAY,"fade, gekko",3,0,0,0,0,0,0,0,0,36,7,1
+Valorant Champions 2024,Group Stage,Elimination (B),Sentinels vs FunPlus Phoenix,All Maps,FunPlus Phoenix,Lysoar,"omen, viper",2,0,0,0,0,0,0,0,0,26,0,1
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,Bilibili Gaming,Flex1n,"omen, viper",6,0,1,0,2,0,0,0,0,64,3,0
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,Bilibili Gaming,Knight,"breach, sage",3,1,1,0,1,0,0,0,0,37,7,0
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,Bilibili Gaming,whzy,"jett, neon",5,2,0,0,0,0,0,0,0,50,1,0
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,Bilibili Gaming,Yosemite,"killjoy, viper",4,0,0,0,0,0,0,0,0,35,2,0
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,Bilibili Gaming,nephh,"fade, kayo",1,1,1,0,0,0,0,0,0,36,4,0
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,KRÜ Esports,Melser,"omen, viper",2,1,0,0,0,0,0,0,0,39,1,0
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,KRÜ Esports,keznit,"jett, raze",6,0,0,0,0,0,0,0,0,65,2,3
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,KRÜ Esports,heat,"fade, gekko",7,1,0,0,0,1,0,0,0,81,9,3
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,KRÜ Esports,Shyy,killjoy,10,2,0,0,0,0,0,0,0,69,0,1
+Valorant Champions 2024,Group Stage,Elimination (A),Bilibili Gaming vs KRÜ Esports,All Maps,KRÜ Esports,mta,"sova, viper",2,3,1,0,0,0,0,0,0,61,0,1
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Talon Esports,Crws,fade,5,0,0,0,0,1,0,0,0,44,4,1
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Talon Esports,Governor,"deadlock, raze",6,1,0,0,0,0,0,0,0,45,1,0
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Talon Esports,ban,"cypher, deadlock",5,1,0,0,0,1,0,0,0,53,0,2
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Talon Esports,JitBoyS,omen,3,1,0,0,1,0,0,0,0,44,0,1
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Talon Esports,primmie,"clove, raze",2,6,0,0,2,0,0,0,0,62,2,0
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Team Vitality,Sayf,"neon, raze",2,3,2,0,2,0,0,0,0,59,1,1
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Team Vitality,trexx,"fade, sova",3,3,0,0,0,1,0,0,0,60,2,0
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Team Vitality,ceNder,omen,3,2,1,0,1,0,0,0,0,46,0,1
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Team Vitality,Kicks,"breach, kayo",10,1,0,0,1,2,0,0,0,67,16,0
+Valorant Champions 2024,Group Stage,Elimination (C),Talon Esports vs Team Vitality,All Maps,Team Vitality,runneR,cypher,4,2,1,0,0,0,0,0,0,53,1,0
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,FUT Esports,cNed,raze,2,3,2,0,0,0,0,0,0,59,0,0
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,FUT Esports,qRaxs,"fade, gekko",5,1,0,0,1,0,0,0,0,37,4,4
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,FUT Esports,AtaKaptan,"brimstone, omen",4,1,0,0,0,0,0,0,0,43,1,0
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,FUT Esports,MrFaliN,"breach, gekko",7,1,0,0,1,0,0,0,0,44,9,1
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,FUT Esports,yetujey,"cypher, viper",7,3,0,0,0,0,0,0,0,62,0,1
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,Paper Rex,Jinggg,raze,6,3,0,0,0,0,0,0,0,58,1,0
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,Paper Rex,mindfreak,"brimstone, omen",7,3,0,0,0,0,0,0,0,58,1,0
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,Paper Rex,f0rsakeN,"breach, fade",3,1,0,0,2,0,0,0,0,42,2,1
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,Paper Rex,d4v41,"sage, viper",5,3,0,0,0,2,1,0,0,63,3,2
+Valorant Champions 2024,Group Stage,Elimination (D),FUT Esports vs Paper Rex,All Maps,Paper Rex,something,gekko,5,0,0,0,0,0,0,0,0,53,10,2
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Gen.G,Lakia,"fade, gekko",0,0,0,0,1,0,0,0,0,24,10,0
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Gen.G,Munchkin,"kayo, viper",5,3,1,0,1,0,0,0,0,62,1,0
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Gen.G,t3xture,"jett, raze",8,0,2,1,0,1,1,0,0,68,3,0
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Gen.G,Meteor,killjoy,4,3,0,0,0,0,0,0,0,44,0,0
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Gen.G,Karon,"omen, viper",1,0,0,0,0,0,0,0,0,36,3,0
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Sentinels,TenZ,"kayo, omen",5,2,0,0,0,0,0,0,0,56,3,0
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Sentinels,Sacy,"fade, sova",5,3,0,0,1,0,0,0,0,56,4,3
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Sentinels,Zellsis,killjoy,2,3,0,0,2,0,0,0,0,51,2,3
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Sentinels,johnqt,viper,5,0,0,0,1,0,0,0,0,46,3,2
+Valorant Champions 2024,Group Stage,Decider (B),Gen.G vs Sentinels,All Maps,Sentinels,zekken,"jett, raze",8,2,1,0,0,0,0,0,0,61,1,0
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,FNATIC,Boaster,"astra, omen",11,1,0,0,1,0,0,0,0,45,5,1
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,FNATIC,Chronicle,"sova, viper",3,4,3,0,1,1,0,0,0,69,6,0
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,FNATIC,Derke,"raze, yoru",11,8,0,0,4,0,0,0,0,68,3,2
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,FNATIC,Alfajer,"breach, iso, killjoy",11,0,0,0,0,1,0,0,0,50,7,3
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,FNATIC,hiro,"cypher, fade",12,2,0,0,0,0,0,0,0,51,2,1
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,KRÜ Esports,Melser,omen,6,2,0,0,0,0,1,0,0,43,9,1
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,KRÜ Esports,keznit,"neon, raze",10,3,1,0,1,0,0,0,0,62,5,0
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,KRÜ Esports,heat,"breach, fade",6,2,0,0,1,0,0,0,0,39,3,1
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,KRÜ Esports,Shyy,"cypher, killjoy",8,2,1,0,2,0,0,0,0,55,0,1
+Valorant Champions 2024,Group Stage,Decider (A),FNATIC vs KRÜ Esports,All Maps,KRÜ Esports,mta,"sova, viper",7,0,1,0,0,1,0,0,0,39,8,0
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,LEVIATÁN,C0M,sova,4,2,0,1,0,1,0,0,0,68,1,3
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,LEVIATÁN,tex,"cypher, killjoy",8,2,0,0,0,0,0,0,0,45,0,0
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,LEVIATÁN,Mazino,"breach, harbor",7,1,1,0,2,1,0,0,0,57,5,1
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,LEVIATÁN,aspas,"jett, neon",8,0,2,0,1,0,0,0,0,57,2,1
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,LEVIATÁN,kiNgg,"omen, viper",4,3,0,0,0,0,0,0,0,58,2,1
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,Team Vitality,Sayf,"jett, neon",9,2,0,0,0,0,0,0,0,52,0,0
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,Team Vitality,trexx,sova,4,4,0,0,0,0,0,0,0,52,0,1
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,Team Vitality,ceNder,"omen, viper",6,1,0,0,0,0,0,0,0,46,2,1
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,Team Vitality,Kicks,"gekko, kayo",7,0,0,0,0,1,0,0,0,42,10,0
+Valorant Champions 2024,Group Stage,Decider (C),LEVIATÁN vs Team Vitality,All Maps,Team Vitality,runneR,"cypher, killjoy",4,1,0,0,0,0,0,0,0,50,1,0
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,EDward Gaming,nobody,"fade, sova",6,3,1,0,0,0,0,0,0,52,7,1
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,EDward Gaming,ZmjjKK,"jett, neon",7,2,0,0,0,0,0,0,0,46,1,0
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,EDward Gaming,Smoggy,"clove, omen, viper",6,3,3,0,0,1,0,0,0,76,0,1
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,EDward Gaming,S1Mon,"breach, kayo",5,1,0,0,1,0,0,0,0,47,9,2
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,EDward Gaming,CHICHOO,"cypher, killjoy, omen",9,1,0,0,0,0,0,0,0,69,1,2
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,Paper Rex,Jinggg,"raze, sage",7,1,0,0,0,1,0,0,0,51,10,0
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,Paper Rex,mindfreak,"omen, viper",5,2,1,0,0,1,1,0,0,52,0,0
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,Paper Rex,f0rsakeN,"breach, cypher, sova",5,4,1,0,2,0,0,0,0,52,1,1
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,Paper Rex,d4v41,"killjoy, sage, skye",7,1,0,0,0,1,0,0,0,45,2,3
+Valorant Champions 2024,Group Stage,Decider (D),EDward Gaming vs Paper Rex,All Maps,Paper Rex,something,"gekko, jett",9,1,1,0,0,0,0,0,0,57,5,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,DRX,BuZz,"jett, neon",7,1,1,0,1,0,0,0,0,42,0,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,DRX,MaKo,omen,5,2,0,0,0,1,1,0,0,50,2,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,DRX,BeYN,sova,2,1,1,0,0,0,0,0,0,39,2,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,DRX,Foxy9,breach,5,1,0,0,1,0,0,0,0,46,12,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,DRX,Flashback,cypher,12,1,0,0,1,0,0,0,0,59,0,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,Sentinels,TenZ,omen,4,4,0,0,0,0,0,0,0,50,2,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,Sentinels,Sacy,"fade, sova",4,2,1,0,2,0,0,0,0,50,2,2
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,Sentinels,Zellsis,breach,9,2,0,0,2,0,0,0,0,55,12,3
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,Sentinels,johnqt,cypher,2,1,1,0,0,0,0,0,0,31,0,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,DRX vs Sentinels,All Maps,Sentinels,zekken,neon,13,4,0,1,1,0,0,0,0,64,0,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,Trace Esports,Biank,"skye, sova",3,2,0,0,1,0,0,0,0,36,5,2
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,Trace Esports,LuoK1ng,"brimstone, omen",3,2,1,0,0,0,0,0,0,52,2,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,Trace Esports,heybay,"breach, deadlock",5,0,0,1,0,0,0,0,0,42,2,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,Trace Esports,FengF,raze,2,2,0,0,0,0,0,0,0,42,1,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,Trace Esports,Kai,cypher,6,3,0,0,0,0,0,0,0,55,1,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,EDward Gaming,nobody,"gekko, sova",7,2,1,0,0,0,0,0,0,71,10,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,EDward Gaming,ZmjjKK,"neon, raze",1,3,4,1,0,1,0,0,0,80,0,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,EDward Gaming,Smoggy,"brimstone, omen",6,1,0,0,0,0,0,0,0,50,1,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,EDward Gaming,S1Mon,"fade, kayo",2,0,0,0,1,0,0,0,0,32,6,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Trace Esports vs EDward Gaming,All Maps,EDward Gaming,CHICHOO,"cypher, viper",5,2,1,0,0,0,0,0,0,51,0,2
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,G2 Esports,valyn,"astra, harbor",2,3,1,0,0,1,1,0,0,35,1,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,G2 Esports,JonahP,viper,7,0,2,0,0,0,0,0,0,47,3,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,G2 Esports,leaf,killjoy,7,4,0,0,0,1,0,0,0,52,0,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,G2 Esports,icy,"gekko, yoru",5,1,0,0,1,1,0,0,0,35,12,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,G2 Esports,trent,sova,7,1,0,0,0,0,0,0,0,48,8,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,LEVIATÁN,C0M,sova,6,2,0,0,1,0,0,0,0,75,4,3
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,LEVIATÁN,tex,"cypher, killjoy",6,0,1,0,0,1,0,0,0,38,1,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,LEVIATÁN,Mazino,harbor,3,2,2,0,0,0,0,0,0,45,12,2
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,LEVIATÁN,aspas,jett,9,2,0,0,1,1,0,0,0,53,0,4
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,G2 Esports vs LEVIATÁN,All Maps,LEVIATÁN,kiNgg,"omen, viper",6,0,1,0,1,0,0,0,0,54,2,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,Team Heretics,Boo,"astra, fade",4,0,0,0,1,0,1,0,0,44,1,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,Team Heretics,RieNs,"sova, viper",6,1,2,0,1,1,0,0,0,69,0,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,Team Heretics,MiniBoo,"jett, raze",4,3,0,0,1,1,0,0,0,44,3,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,Team Heretics,Wo0t,"gekko, omen",9,0,0,0,0,0,0,0,0,56,12,4
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,Team Heretics,benjyfishy,"cypher, killjoy",6,2,0,0,0,1,0,0,0,47,0,3
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,FNATIC,Boaster,"astra, omen",2,0,0,0,0,0,0,0,0,18,4,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,FNATIC,Chronicle,"sova, viper",3,1,0,0,0,0,0,0,0,50,5,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,FNATIC,Derke,"raze, yoru",10,3,0,0,0,1,0,0,0,65,4,1
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,FNATIC,Alfajer,killjoy,3,0,0,0,0,0,0,0,0,46,3,0
+Valorant Champions 2024,Playoffs,Upper Quarterfinals,Team Heretics vs FNATIC,All Maps,FNATIC,hiro,"fade, viper",7,2,0,0,0,0,1,0,0,50,3,0
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,DRX,BuZz,"jett, raze",4,4,1,0,1,0,0,0,0,66,0,1
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,DRX,MaKo,omen,5,0,0,0,0,0,0,0,0,39,3,1
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,DRX,BeYN,"fade, sova",7,3,0,0,1,0,0,0,1,60,8,2
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,DRX,Foxy9,"chamber, kayo",3,0,2,0,1,0,0,0,0,59,3,1
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,DRX,Flashback,"cypher, viper",3,2,0,0,0,0,0,0,0,61,0,1
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,Trace Esports,Biank,"fade, sova",0,0,1,0,0,0,0,0,0,38,3,0
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,Trace Esports,LuoK1ng,"astra, omen",3,1,1,0,0,0,0,0,0,55,1,0
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,Trace Esports,heybay,"kayo, viper",2,0,0,0,0,0,0,0,0,45,2,0
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,Trace Esports,FengF,"cypher, raze",6,1,0,0,0,0,0,0,0,65,1,0
+Valorant Champions 2024,Playoffs,Lower Round 1,DRX vs Trace Esports,All Maps,Trace Esports,Kai,"jett, killjoy",1,2,1,0,0,0,0,0,0,46,3,0
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,G2 Esports,valyn,"brimstone, omen",3,2,0,0,1,0,0,0,0,48,5,0
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,G2 Esports,JonahP,"skye, viper",3,2,0,0,1,0,0,0,0,35,1,1
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,G2 Esports,leaf,"killjoy, viper",6,1,0,0,0,0,0,0,0,43,1,0
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,G2 Esports,icy,"raze, yoru",4,1,0,0,0,1,0,0,0,36,0,1
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,G2 Esports,trent,"gekko, sova",3,1,0,0,1,0,0,0,0,53,11,0
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,FNATIC,Boaster,"astra, omen",2,0,0,0,1,0,0,0,0,23,1,0
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,FNATIC,Chronicle,"sova, viper",5,1,2,0,1,0,0,0,0,68,1,2
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,FNATIC,Derke,"raze, yoru",9,2,0,0,1,0,0,0,0,69,0,2
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,FNATIC,Alfajer,"gekko, iso",11,3,0,0,0,0,0,0,0,77,10,4
+Valorant Champions 2024,Playoffs,Lower Round 1,G2 Esports vs FNATIC,All Maps,FNATIC,hiro,"cypher, fade",6,1,0,0,0,0,0,0,0,57,1,0
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,Sentinels,TenZ,omen,10,5,1,0,0,1,0,0,0,65,2,1
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,Sentinels,Sacy,"fade, sova",6,2,0,0,1,0,0,0,0,48,6,4
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,Sentinels,Zellsis,"breach, killjoy",5,1,1,0,0,0,0,0,0,46,9,1
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,Sentinels,johnqt,"cypher, viper",7,2,0,0,1,0,0,0,0,49,4,2
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,Sentinels,zekken,"neon, raze",9,7,0,0,0,0,0,0,0,61,1,2
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,EDward Gaming,nobody,"fade, sova",8,3,1,0,4,0,0,0,0,46,6,2
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,EDward Gaming,ZmjjKK,neon,10,2,1,0,0,0,0,0,0,59,1,1
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,EDward Gaming,Smoggy,"clove, omen",4,3,1,0,0,0,0,0,0,46,3,0
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,EDward Gaming,S1Mon,"breach, kayo",6,1,1,0,2,0,0,0,0,48,20,3
+Valorant Champions 2024,Playoffs,Upper Semifinals,Sentinels vs EDward Gaming,All Maps,EDward Gaming,CHICHOO,"cypher, omen",9,4,0,0,1,1,0,0,0,61,1,1
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,C0M,"fade, sova",7,1,0,0,2,0,0,0,0,47,2,3
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,tex,"cypher, killjoy",6,2,1,0,0,1,0,0,0,52,0,1
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,Mazino,"breach, harbor",8,3,0,0,1,0,0,0,0,54,16,1
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,aspas,"jett, raze",8,5,0,0,1,0,0,0,0,62,2,2
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,kiNgg,"omen, viper",6,1,0,0,2,0,0,0,0,46,3,1
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,Boo,"fade, viper",8,0,0,0,2,0,0,0,0,51,8,2
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,RieNs,"sova, viper",8,1,0,0,0,0,0,0,0,49,1,0
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,MiniBoo,"neon, raze",10,0,1,0,0,0,0,0,0,52,1,2
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,Wo0t,"gekko, omen",3,0,0,0,0,0,0,0,0,37,9,0
+Valorant Champions 2024,Playoffs,Upper Semifinals,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,benjyfishy,killjoy,11,2,0,0,1,0,0,0,0,51,4,1
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,Sentinels,TenZ,"gekko, omen",4,1,1,0,0,1,0,0,0,39,13,1
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,Sentinels,Sacy,"fade, gekko",8,4,0,0,0,2,1,0,0,45,11,4
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,Sentinels,Zellsis,"brimstone, kayo, killjoy",6,2,0,0,3,0,0,0,0,42,3,1
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,Sentinels,johnqt,"cypher, viper",8,4,0,0,3,1,0,0,0,61,1,2
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,Sentinels,zekken,raze,9,2,3,0,0,1,0,0,0,57,3,0
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,FNATIC,Boaster,"astra, omen",6,0,0,0,0,0,1,0,0,35,4,2
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,FNATIC,Chronicle,"sova, viper",8,6,0,0,0,0,0,0,0,85,2,4
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,FNATIC,Derke,raze,15,4,0,0,0,0,0,0,0,62,3,1
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,FNATIC,Alfajer,"breach, gekko, killjoy",8,2,0,0,1,0,0,0,0,50,13,0
+Valorant Champions 2024,Playoffs,Lower Round 2,Sentinels vs FNATIC,All Maps,FNATIC,hiro,"cypher, fade",6,1,1,0,1,0,0,0,0,39,3,0
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,Team Heretics,Boo,"astra, omen, viper",6,3,0,0,2,0,0,0,0,50,1,3
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,Team Heretics,RieNs,sova,8,3,0,0,0,0,0,0,0,60,4,3
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,Team Heretics,MiniBoo,"jett, neon, raze",14,3,1,0,1,0,0,0,0,72,1,1
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,Team Heretics,Wo0t,"gekko, kayo",7,1,1,0,2,0,0,0,0,54,10,3
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,Team Heretics,benjyfishy,"cypher, killjoy",7,2,0,0,1,0,0,0,0,47,2,2
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,DRX,BuZz,"jett, neon",3,2,2,0,0,0,0,0,0,45,0,0
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,DRX,MaKo,"omen, viper",9,2,1,1,0,0,0,1,0,65,3,0
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,DRX,BeYN,sova,7,2,0,0,1,1,0,0,0,50,10,2
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,DRX,Foxy9,"breach, kayo",5,3,1,0,2,0,0,0,0,47,17,1
+Valorant Champions 2024,Playoffs,Lower Round 2,Team Heretics vs DRX,All Maps,DRX,Flashback,"cypher, killjoy",5,2,1,0,0,0,1,0,0,50,1,1
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,EDward Gaming,nobody,"fade, sova",9,2,0,0,1,1,0,0,0,47,5,4
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,EDward Gaming,ZmjjKK,"jett, neon",8,6,0,0,0,0,1,0,0,49,0,1
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,EDward Gaming,Smoggy,"clove, omen, viper",13,3,1,0,0,0,1,0,0,63,3,2
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,EDward Gaming,S1Mon,"breach, kayo",5,0,0,0,0,0,0,0,0,40,20,1
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,EDward Gaming,CHICHOO,"astra, killjoy, omen",13,4,1,0,1,1,0,0,0,54,0,2
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,LEVIATÁN,C0M,"fade, sova",5,1,0,0,0,0,0,0,0,46,3,1
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,LEVIATÁN,tex,"cypher, killjoy",10,1,1,0,0,0,0,0,0,49,1,1
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,LEVIATÁN,Mazino,"breach, harbor",13,2,0,0,1,0,0,0,0,57,9,5
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,LEVIATÁN,aspas,"jett, raze",9,1,2,0,0,0,0,0,0,57,1,4
+Valorant Champions 2024,Playoffs,Upper Final,EDward Gaming vs LEVIATÁN,All Maps,LEVIATÁN,kiNgg,"omen, viper",5,2,0,0,0,0,0,0,0,43,5,1
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Team Heretics,Boo,"astra, sage, viper",4,2,1,0,1,0,0,0,0,48,1,1
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Team Heretics,RieNs,"gekko, sova",9,3,2,0,1,1,0,0,0,58,8,1
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Team Heretics,MiniBoo,"jett, neon, raze",9,1,1,0,0,0,0,0,0,54,1,2
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Team Heretics,Wo0t,"gekko, omen",6,3,0,0,1,1,0,0,0,55,15,2
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Team Heretics,benjyfishy,"cypher, killjoy",8,2,1,0,0,0,0,0,0,42,0,1
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Sentinels,TenZ,"kayo, omen",11,2,3,0,0,0,0,0,0,64,1,2
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Sentinels,Sacy,sova,4,0,0,0,0,0,0,0,0,43,10,3
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Sentinels,Zellsis,"breach, kayo, killjoy",10,1,0,0,0,0,0,0,0,47,6,3
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Sentinels,johnqt,"cypher, viper",5,1,0,0,0,1,0,0,0,43,2,1
+Valorant Champions 2024,Playoffs,Lower Round 3,Team Heretics vs Sentinels,All Maps,Sentinels,zekken,"jett, neon",8,7,0,1,0,1,0,0,0,60,0,2
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,C0M,"fade, sova",12,2,0,0,1,1,0,0,0,45,12,3
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,tex,"cypher, killjoy",7,5,0,0,0,0,0,0,0,45,2,0
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,Mazino,"breach, harbor",12,2,0,0,1,0,0,0,0,44,19,3
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,aspas,"jett, neon, raze",10,1,1,0,3,0,0,0,0,47,0,1
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,LEVIATÁN,kiNgg,"omen, viper",9,3,0,0,0,2,0,0,0,43,1,1
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,Boo,"astra, fade, omen, viper",10,2,0,0,2,0,0,0,0,63,11,2
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,RieNs,"sova, viper",24,0,0,0,3,1,0,0,0,60,4,3
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,MiniBoo,"jett, neon, raze",14,4,0,0,0,0,0,0,0,59,4,1
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,Wo0t,"gekko, kayo, omen",13,2,0,0,0,0,0,0,0,51,19,4
+Valorant Champions 2024,Playoffs,Lower Final,LEVIATÁN vs Team Heretics,All Maps,Team Heretics,benjyfishy,"cypher, killjoy",8,3,1,0,1,0,0,0,0,55,0,2
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,EDward Gaming,nobody,"fade, gekko, sova",11,2,0,0,2,1,0,0,0,47,15,2
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,EDward Gaming,ZmjjKK,"jett, neon, raze",24,5,3,2,0,1,0,0,0,75,2,0
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,EDward Gaming,Smoggy,"brimstone, clove, omen",9,3,2,0,1,1,0,0,0,57,9,4
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,EDward Gaming,S1Mon,"breach, fade, kayo",11,2,0,0,2,1,0,0,0,50,23,2
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,EDward Gaming,CHICHOO,"astra, cypher, omen, viper",11,6,1,1,0,3,0,0,0,64,2,0
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,Team Heretics,Boo,"astra, brimstone, fade, omen",12,1,0,0,2,1,1,0,0,35,5,1
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,Team Heretics,RieNs,"gekko, sova, viper",17,1,0,0,1,0,1,0,0,57,15,5
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,Team Heretics,MiniBoo,"jett, neon, raze",14,5,0,0,0,0,0,0,0,48,2,1
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,Team Heretics,Wo0t,"breach, fade, gekko, kayo, omen",12,3,1,0,0,1,0,0,0,53,8,2
+Valorant Champions 2024,Playoffs,Grand Final,EDward Gaming vs Team Heretics,All Maps,Team Heretics,benjyfishy,"cypher, killjoy, viper",15,3,1,0,0,1,1,0,0,54,2,2
